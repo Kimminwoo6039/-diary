@@ -76,6 +76,8 @@ task copyReactBuildFiles(type: Copy) {
     into "$projectDir/src/main/resources/static"
 }
 
+
+
 tasks.named('test') {
     useJUnitPlatform()
 }

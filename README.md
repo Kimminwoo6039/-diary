@@ -9,6 +9,21 @@
 * JAVA 17
 ```
 
+
+---
+
+* 공식사이트
+```
+https://reactrouter.com/en/6.21.1
+```
+
+* 참고사이트
+```
+https://v5.reactrouter.com/web/example/nesting
+```
+
+---
+
 # React (Web)
 
 *⚡️  React App 생성
@@ -124,3 +139,4 @@ task copyReactBuildFiles(type: Copy) {
 ```agsl
 ./gradlew build
 ```
+

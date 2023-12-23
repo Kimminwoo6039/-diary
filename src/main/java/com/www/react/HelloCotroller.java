@@ -2,14 +2,14 @@ package com.www.react;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+@Controller
 public class HelloCotroller {
 
-   @GetMapping("/api/test")
+   @GetMapping("/")
     public String hello() {
-       return "테스트";
+       return "/index.html";
    }
-
 }

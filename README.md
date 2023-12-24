@@ -1,5 +1,10 @@
 배포주소 : http://203.245.28.214:9090/
 
+
+
+https://github.com/Kimminwoo6039/-diary/assets/116887590/799a1563-fa12-4382-a1d5-7f459273e1e3
+
+
 # Java (Server)
 
 * ⚡ ️Version
